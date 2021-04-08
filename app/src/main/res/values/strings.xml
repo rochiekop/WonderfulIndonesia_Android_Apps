@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WonderfulIndonesia</string>
+    <string name="place_name">Destination</string>
+    <string name="rate">Rate</string>
+    <string name="place_overview">Overview</string>
+    <string name="title_overview">Alamat \nLokasi \nDibangun \nDiresmikan</string>
+    <string name="content_overview">Content Overview</string>
+    <string name="place_description">Deskripsi Tempat</string>
+    <string name="content_description">Content Deskripsi</string>
+    <string name="user">User Profile</string>
+    <string name="user_name">Username</string>
+    <string name="email">Email</string>
+</resources>
